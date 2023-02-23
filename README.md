@@ -1,0 +1,2 @@
+dependancies - 	speedtest-cli
+		tkinter
